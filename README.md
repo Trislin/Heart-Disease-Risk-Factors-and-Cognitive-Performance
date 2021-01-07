@@ -1,5 +1,5 @@
 # Heart-Disease-Risk-Factors-and-Cognitive-Performance
-* Authors: Sonja Kytomaa, Prajakta Joshi, Jing Yuan, Yijing Lin, Rhoda Au
+* Authors: Sonja Kytomaa, Prajakta Joshi, Jing Yuan, Trista Lin, Rhoda Au
 
 ## Objectives: 
 * To estimate the extent to which the association between CHD risk factors and cognitive function is due to underlying atherosclerosis.
